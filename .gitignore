@@ -1,1 +1,6 @@
 release/
+build/
+dist/
+icon.ico
+main.spec
+TODO.txt
